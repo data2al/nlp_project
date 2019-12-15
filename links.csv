@@ -1,27 +1,53 @@
-﻿President,Link,Year
-George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-31-1990-state-union-address,1990
-George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-29-1991-state-union-address,1991
-George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-1992-state-union-address,1992
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-25-1994-state-union-address,1994
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-24-1995-state-union-address,1995
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-23-1996-state-union-address,1996
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/february-4-1997-state-union-address,1997
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-27-1998-state-union-address,1998
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-19-1999-state-union-address,1999
-Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-27-2000-state-union-address,2000
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-29-2002-state-union-address,2002
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-2003-state-union-address,2003
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-20-2004-state-union-address,2004
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/february-2-2005-state-union-address,2005
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-31-2006-state-union-address,2006
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-23-2007-state-union-address,2007
-George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-2008-state-union-address,2008
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-27-2010-2010-state-union-address,2010
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-25-2011-2011-state-union-address,2011
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-24-2012-2012-state-union-address,2012
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/february-13-2013-2013-state-union-address,2013
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-28-2014-2014-state-union-address,2014
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-20-2015-2015-state-union-address,2015
-Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-12-2016-2016-state-union-address,2016
-Donald Trump,https://millercenter.org/the-presidency/presidential-speeches/january-30-2018-state-union-address,2018
-Donald Trump,https://millercenter.org/the-presidency/presidential-speeches/february-5-2019-state-union-address,2019
+﻿President,Link,Year,Party
+John F. Kennedy,https://millercenter.org/the-presidency/presidential-speeches/january-30-1961-state-union,1961,D
+John F. Kennedy,https://millercenter.org/the-presidency/presidential-speeches/january-11-1962-state-union-address,1962,D
+John F. Kennedy,https://millercenter.org/the-presidency/presidential-speeches/january-14-1963-state-union-address,1963,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-8-1964-state-union,1964,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-4-1965-state-union,1965,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-12-1966-state-union,1966,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-10-1967-state-union-address,1967,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-17-1968-state-union-address,1968,D
+Lyndon B. Johnson,https://millercenter.org/the-presidency/presidential-speeches/january-14-1969-state-union-address,1969,D
+Richard M. Nixon,https://millercenter.org/the-presidency/presidential-speeches/january-22-1970-state-union-address,1970,R
+Richard M. Nixon,https://millercenter.org/the-presidency/presidential-speeches/january-22-1971-state-union-address,1971,R
+Richard M. Nixon,https://millercenter.org/the-presidency/presidential-speeches/january-20-1972-state-union-address,1972,R
+Richard M. Nixon,https://millercenter.org/the-presidency/presidential-speeches/january-30-1974-state-union-address,1974,R
+Gerald Ford,https://millercenter.org/the-presidency/presidential-speeches/january-15-1975-state-union-address,1975,R
+Gerald Ford,https://millercenter.org/the-presidency/presidential-speeches/january-19-1976-state-union-address,1976,R
+Gerald Ford,https://millercenter.org/the-presidency/presidential-speeches/january-12-1977-state-union-address,1977,R
+Jimmy Carter,https://millercenter.org/the-presidency/presidential-speeches/january-19-1978-state-union-address,1978,D
+Jimmy Carter,https://millercenter.org/the-presidency/presidential-speeches/january-23-1979-state-union-address,1979,D
+Jimmy Carter,https://millercenter.org/the-presidency/presidential-speeches/january-23-1980-state-union-address,1980,D
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/january-26-1982-state-union-address,1982,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/january-25-1983-state-union-address,1983,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/january-25-1984-state-union-address,1984,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/february-6-1985-state-union-address,1985,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/february-4-1986-state-union-address,1986,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/january-27-1987-state-union-address,1987,R
+Ronald Reagan,https://millercenter.org/the-presidency/presidential-speeches/january-25-1988-state-union-address,1988,R
+George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-31-1990-state-union-address,1990,R
+George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-29-1991-state-union-address,1991,R
+George H.W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-1992-state-union-address,1992,R
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-25-1994-state-union-address,1994,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-24-1995-state-union-address,1995,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-23-1996-state-union-address,1996,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/february-4-1997-state-union-address,1997,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-27-1998-state-union-address,1998,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-19-1999-state-union-address,1999,D
+Bill Clinton,https://millercenter.org/the-presidency/presidential-speeches/january-27-2000-state-union-address,2000,D
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-29-2002-state-union-address,2002,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-2003-state-union-address,2003,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-20-2004-state-union-address,2004,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/february-2-2005-state-union-address,2005,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-31-2006-state-union-address,2006,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-23-2007-state-union-address,2007,R
+George W. Bush,https://millercenter.org/the-presidency/presidential-speeches/january-28-2008-state-union-address,2008,R
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-27-2010-2010-state-union-address,2010,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-25-2011-2011-state-union-address,2011,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-24-2012-2012-state-union-address,2012,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/february-13-2013-2013-state-union-address,2013,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-28-2014-2014-state-union-address,2014,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-20-2015-2015-state-union-address,2015,D
+Barack Obama,https://millercenter.org/the-presidency/presidential-speeches/january-12-2016-2016-state-union-address,2016,D
+Donald Trump,https://millercenter.org/the-presidency/presidential-speeches/january-30-2018-state-union-address,2018,R
+Donald Trump,https://millercenter.org/the-presidency/presidential-speeches/february-5-2019-state-union-address,2019,R
